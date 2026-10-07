@@ -1,0 +1,3 @@
+# Core (URL fetching / HTML parsing). The --demo mode needs nothing at all.
+requests>=2.31
+beautifulsoup4>=4.12
